@@ -1,10 +1,8 @@
-# https://github.com/iuricode/readme-template/blob/main/perfil/exemplo-01.md
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://drive.google.com/file/d/1l5Ha3-w2L37gzw_BNfnUhAcx-k5TaSvG/view?usp=sharing" alt="ilustração" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-Interesses em análise de dados, desenvolvimento de software, segurança cibernética e educação tecnológica e inovação. 
+  Interesses em análise de dados, desenvolvimento de software, segurança cibernética, forense computacional, pentest, educação tecnológica e inovação. 
   Trabalho como Instrutora de Formação Profissional Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta - Vila Mariana.
 </p>
 
