@@ -1,24 +1,28 @@
-<img src="[https://drive.google.com/file/d/1l5Ha3-w2L37gzw_BNfnUhAcx-k5TaSvG/view?usp=sharing](https://drive.google.com/file/d/1l5Ha3-w2L37gzw_BNfnUhAcx-k5TaSvG/view?usp=drive_link)" alt="ilustração" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
-  Interesses em análise de dados, desenvolvimento de software, segurança cibernética, forense computacional, pentest, educação tecnológica e inovação. 
   Trabalho como Instrutora de Formação Profissional Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta - Vila Mariana.
+  <br>
+  
+  <strong>Interesses </strong>
+  <br>📈 Análise de dados
+  <br>👩‍💻 Desenvolvimento de software e aplicativo
+  <br>🔎 Segurança cibernética, forense computacional, pentest
+  <br>👩‍🎓 Educação tecnológica e inovação  
 </p>
 
 <p align="left">
-  👩‍💻 Conhecimento: Python, Java, R, CSS, JavaScript, HTML, Kotlin, SQL, COBOL, C/C++, SAS**
+  💻 <strong>Conhecimento:</strong> Python, Java, R, CSS, JavaScript, HTML, Kotlin, SQL, COBOL, C/C++, SAS
 </p>
 
 <p align="left">
-  💼 Experiência: Ciência de Dados, Análise de Dados, SEO Analyzer, Forense Computacional, Pentest**
+  💼 <strong>Experiência:</strong> Ciência de Dados, Análise de Dados, SEO Analyzer, Forense Computacional, Pentest
 </p>
 
 <p align="left">
-  ⚙️ Ferramentas: **Databricks, Visual Studio Code, Power BI, HeidiSQL, Android Studio, DBeaver, Autopsy, Wireshark, Ghidra, Trello, Figma, SPSS, Sigma Plot**
+  ⚙️ <strong>Ferramentas:</strong> Databricks, VSCode, Power BI, HeidiSQL, Android Studio, DBeaver, Autopsy, Wireshark, Ghidra, Trello, Figma, SPSS, Sigma Plot
 </p>
 
 <p align="left">
-  💌 Contate-me: ⤵️
+  💌 <strong>Contate-me:</strong> ⤵️
 </p>
 
 <p align="left">
